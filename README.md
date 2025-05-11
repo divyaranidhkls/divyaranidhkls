@@ -1,33 +1,47 @@
-# **Hello World, I'm Divya Rani 👋🏽**
+# 👋🏽 Hello World, I'm Divya Rani
 
-A self-taught Full-Stack Mobile Developer.
+A passionate **Self-taught Full-Stack Developer** who loves solving real-world problems through code and AI!
 
-I am Interested in Machine Learning and Deep Learning Projects
+---
 
-I develop web applications in Next.js.
+## 🚀 About Me
 
-I develop backend applications in Node.js and Sprint Boot.
+- 🎓 Currently pursuing a B.E. in **AI & Data Science**
+- 🔭 Currently exploring **Tailwind CSS**, **Radix UI**, and **shadcn/ui**
+- 🌱 Learning **Next.js**, **Node.js**, and **Generative AI**
+- 🧠 Keen on building creative and impactful full-stack solutions
+- 💬 Ask me about: `React`, `Next.js`, `MongoDB`, `Tailwind CSS`
 
-Experience
+---
 
-React Native (JS/TS) • ⭐️⭐️⭐️
+## 💻 Tech Stack
 
-Compose (Kotlin) • ⭐️
+### 🌐 Frontend
+- **Next.js (JS/TS)** &nbsp;⭐️⭐️⭐️  
+- **Tailwind CSS**  
+- **Radix UI / shadcn/ui** (exploring)
 
-Web
+### 🧠 Backend
+- **Node.js (JS/TS)** &nbsp;⭐️⭐️⭐️  
+- **Prisma** &nbsp;⭐️⭐️⭐️⭐️  
 
-Next.js (JS/TS) • ⭐️⭐️⭐️
+### 🗄️ Database
+- **MongoDB** &nbsp;⭐️⭐️⭐️⭐️  
+- **MySQL** &nbsp;⭐️⭐️⭐️⭐️  
 
-Svelte (JS/TS) • ⭐️
+---
 
-Back End • ⭐️⭐️⭐️⭐️
+## 📌 Projects
 
-Node.js (JS/TS) • ⭐️⭐️⭐️
+- 🔍 `CNN Based Leaf Disease Identification and Remedy Suggestion System`
+- 💸 `Loan Prediction System using Naive Bayes Classifier`
+- 🍽️ `Catering Management System`
+- 🧠 `Automated Pain Recognition and Intensity Classification using YOLOv8`
 
-Sprint Boot (Java/Kotlin) • ⭐️
+---
 
-Projects
-CNN Based Leaf Disease Identification and Remedy Suggestion System 
-Loan Predection System using NBC
-Catering Management System
-Automated Pain Recognition and Intensity Classification on Inarticulate Patients using YOLOv8
+## 📫 Let's Connect
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/divyarani-k-686b9a286/)
+- [💻 GitHub](https://github.com/divyaranidhkls)
+- ✉️ Email: `divyaranidhkls@gmail.com`
